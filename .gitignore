@@ -1,0 +1,17 @@
+# Large media files
+audios/
+videos/
+trimmed_audios/
+temp_files/
+
+# Generated data
+embeddings.joblib
+jsons/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db

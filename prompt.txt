@@ -1,0 +1,6 @@
+ Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"The Geometry of linear Equations.mp3","number":"1","start":225.86,"end":228.18,"text":" The matrix of coefficients."},{"title":"The Geometry of linear Equations.mp3","number":"1","start":194.46,"end":195.86,"text":" That's the matrix."},{"title":"Properties of Determinants.mp3","number":"10","start":12.0,"end":19.0,"text":" rectangular matrices. Now concentrating on square matrices."},{"title":"Orthogonal Vectors and Subspaces.mp3","number":"6","start":273.0,"end":283.0,"text":" And that matrix multiplication just gives me the right thing, that x1y1 plus x2y2 and so on."},{"title":"Properties of Determinants.mp3","number":"10","start":297.0,"end":300.0,"text":" permutation matrix is."}]
+---------------------------------
+"Matrix multiplication"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

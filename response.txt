@@ -1,0 +1,7 @@
+You're looking for information on matrix multiplication. From what I could gather, it seems like a topic that's covered in both "The Geometry of linear Equations" and "Properties of Determinants".
+
+In "The Geometry of linear Equations", you'll find a brief mention of matrix multiplication starting at around 194 seconds into the video. It appears to be mentioned as a way to combine two matrices, with an example given that involves finding the sum of products of corresponding elements in each matrix.
+
+On the other hand, the topic of "Matrix multiplication" is explored more thoroughly in "Properties of Determinants". Starting at about 12 seconds into this video, you'll see a discussion on how matrix multiplication relates to determinants and permutation matrices. This section seems to provide more detailed information on the properties and applications of matrix multiplication.
+
+If I'm correct that these videos are part of the same course, I'd recommend starting with "The Geometry of linear Equations" (around 194 seconds in) if you want a brief introduction to matrix multiplication. However, for a more comprehensive understanding, I'd suggest diving into "Properties of Determinants" (starting at around 12 seconds in).
