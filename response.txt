@@ -1,7 +1,15 @@
-You're looking for information on matrix multiplication. From what I could gather, it seems like a topic that's covered in both "The Geometry of linear Equations" and "Properties of Determinants".
+So, you're wondering about probability! Well, let's dive into it.
 
-In "The Geometry of linear Equations", you'll find a brief mention of matrix multiplication starting at around 194 seconds into the video. It appears to be mentioned as a way to combine two matrices, with an example given that involves finding the sum of products of corresponding elements in each matrix.
+In this series of videos, called "Mini Math Movies", the concept of probability is explored in detail. The video where we talk about probability is actually the same one that starts with the title "Mini Math Movies _ Scratch Garden_Probability! _ Mini Math Movies _ Scratch Garden.mp4.mp3".
 
-On the other hand, the topic of "Matrix multiplication" is explored more thoroughly in "Properties of Determinants". Starting at about 12 seconds into this video, you'll see a discussion on how matrix multiplication relates to determinants and permutation matrices. This section seems to provide more detailed information on the properties and applications of matrix multiplication.
+To be more specific, you can find the first mention of probability at around 0 seconds (yes, it's right from the beginning!) and then again at about 12.8 seconds. The host explains that probability is like thinking about whether something will happen or not.
 
-If I'm correct that these videos are part of the same course, I'd recommend starting with "The Geometry of linear Equations" (around 194 seconds in) if you want a brief introduction to matrix multiplication. However, for a more comprehensive understanding, I'd suggest diving into "Properties of Determinants" (starting at around 12 seconds in).
+A bit later in the video, around 24.96 seconds, they talk about how to pronounce "probability" correctly - actually, you say it like this: Probability!
+
+Later on, at 29.28 seconds, the host says that if you got this far, you've got a good grasp of probability! 
+
+So, there's no single video where only the content related to probability is covered; instead, the concept is spread throughout the video, with key moments around the timestamps I mentioned.
+
+If you want to learn more about probability from scratch, I recommend starting with that particular video. It should be the 6th one in the series (Mini Math Movies _ Scratch Garden_Probability!).
+
+Let me know if you have any other questions or need further clarification!
